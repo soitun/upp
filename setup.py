@@ -10,7 +10,7 @@ setuptools.setup(
     description='Uplift Power Play',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/sibradzic/upp',
+    url='https://labs.minerstat.farm/repo/upp',
     package_dir={'': 'src'},
     packages=['upp', 'upp/atom_gen'],
     classifiers=[
